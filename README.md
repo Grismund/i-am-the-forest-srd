@@ -62,6 +62,7 @@ First, you will create your Forest and a map of your world. Then, you will creat
 Be sure to set aside about 30 minutes for this process. You will need about 10 minutes for character creation and journaling, as well as 20 minutes for Territory Map creation.
 
 ### Overview
+<!-- TODO: This does not seem like the right kind of Markdown for this. -->
 Step 1. Define Forest's Statistics
 * 2d6 in each Nature Value. Note Potency from Potency Table on Character Sheet.
 
@@ -176,25 +177,139 @@ fill in the Potency, look at the Nature Value for each of your Enemy's Nature Ty
 
 #### Enemy Culture
 Your Enemy has a unique culture which makes them specially adept in certain Nature Types. Roll d12 on the Enemy Culture Table on page 69. Note the Potency bonuses for the culture, and add that bonus to their existing Potency. The Enemy's new Potency is their Nature Value Potency + Culture Potency bonuses.
+
 ### Step 6: Define Enemy History
 The Enemy has a motivation to threaten your Forest. It may be that they hate the wilds because of a past cultural trauma. Perhaps their religion has a taboo about your Forest's Primary Feature. Or maybe they are simply aggressive colonizers seeking to master the elements. In any case, determining Enemy history and motivation can greatly open up the story of your game.
 
 To determine Enemy history, roll d12 on the Event Tables and the Enemy Motivation Tables on page 70. Think about your results and write down the Enemy history in your journal.
 
-### Determine and Draw Enemy Territory
+### Step 7: Determine and Draw Enemy Territory
+The Enemy invades. Centers of housing, manufacturing, and trade blister the land. Roads slice through virgin wilderness, fences constrict the Forest's creatures, dammed rivers yearn for freedom, and toxified lakes choke on their own waters.
 
+#### Determine Territory
+To determine the Enemy's starting territory, you need 2d6 and the Territory Map. Roll 2d6 on top of the map. Where a die lands is called the origin. The number on the die determines how many hexes belong to the Enemy. 
 
-### Starting Abilities
+Connect the origins and draw borders to encompas the total number of hexes rolled. 
+
+If your 2d6 roll is less than 5, simply make the total Enemy territory a size of 5.
+
+If a die rolls off the map, consider it as having landed on the hex it is closest to, and draw the territory from there.
+
+If you cannot connect origins with your roll, start over by rerolling both dice until you can.
+
+#### Draw Territory
+For each hex in Enemy territory, erase your Forest's features or alter them and redraw the Enemy's structures or effects on the land.
+
+### Step 8: Pick Forest Starting Ability
+Abilities offer your Forest a chance to turn the tables on your Enemy. Abilities come in two forms; Forest Abilities which grant a Potency bonus when using a certain Nature Type, and Ally Abilities which cause chaotic effects. The details of how Abilities work are covered in Chapter 5: Abilities. For now, pick one Forest Ability which interests you.
+
+Turn to the Forest Abilities.  Read over the Abilities for each Nature Type. Select a Forest Ability for which your Nature Value is 5 or greater. Consider wether you want to take an ability to boost one of your low Potencies, or to bolster an already strong Potency.Write it on your Character Sheet, circling level 1. You will have chances to gain new abilities and level up your existing ones throughout the game.
+
+### Step 9: Note Ally Starting Ability
+While Allies partner with the Forest, they are not directly under the Forest's control. When an Ally assists the Forest, it uses abilities which throw in an element of chaos. Note your Ally’s level 1 Ability on your Character Sheet.
+
+### Step 10: Wrap Up and Begin Gameplay!
+Finish the Character Creation sheet by summarizing your Forest, Ally, and Enemy histories and motiva-tions. Name them all if you wish.
+
+Congratulations! You are ready to play.
 
 ## Chapter 3: Gameplay Overview
 ### Goals
+Gameplay in "I am the Forest" revolves around attempts by the Enemy to Encroach or advance upon your Forest's territory and your Forest's attemept to Defend, then Encroach upon Enemy Territory over the course of multiple Years. 
+
+Players can win the game by reclaiming every hex on the map, but the beauty of "I am the Forest" is the experience of builing a rich landscape with a tumult-uous history.
+
+GM's should engage with this game as a tool to create their own worlds, or alter an existing one as the people of their world alter the landscape.
+
 ### Terminology
+#### Encroachment
+Encroachment refers to an effort to take over  territory. Both the Forest and the Enemy Encroach upon each other's territory. Though this effort may be intentionally hostile, it may also be a natural consequence of something else.
+
+For example, the Enemy may Encroach on the Forest's woodland because they want to destroy all the threatening animals within, or perhaps they must Encroach on the woodland because their homes were destroyed last Year by the Forest and they need a new place to settle.
+
+#### Valid Hex
+Valid Hex means a hex which is able to be Encroached upon because it shares a border with an opposing hex. In the image below, A and B share a border, so A may Encroach on the valid hex B. A may not Encroach on C because they do not share a border.
+
+#### Years
+Gameplay is structured into a series of steps which constitute a full round. In "I am the Forest," rounds are counted in Years. Each round represents a full Year's effort by the Enemy and the Forest to Encroach upon and defend territory. You will recount each Year's events in a journal from your Forest's perspective.
+
 ### Year Overview
+1. Year Begins
+    - Ally and Forest Abilities reset
+2. Enemy Encroachment
+    - Select a Valid Hex: Count valid hexes clockwise using d12 and starting from your topmost vald hex.
+    - Roll d12 on Enemy Nature Type
+    - Roll Enemy Encroachment Score: 2d6 + Potency 
+    - Roll Forest Defense Score: 2d6 + Potency + Ability (if used)
+    - Compare Scores to determine who prevailed.
+    - Journal the outcome and add Growth Points if Forest Wins.
+3. Forest Encroachment
+	- Select a Valid Hex: Choose an Enemy Valid Hex.
+	- Plan: Pick which Forest Nature Type to Encroach with.
+	- Roll Encroachment Score: 2d6 + Potency + Ability (if used).
+	- Roll Enemy Defense Type and  Score: d12 for Type and 2d6 + Potency for score.
+	- Compare Scores to determine who prevailed.
+	- Journal the outcome and add Growth Points (if Forest Wins).
+4. Grow Your Forest
+    - Apply your Growth points if you wish to make your Forest stronger.
+5. Year Ends
+    - Make any final journal entries or plans.
 
 ## Chapter 4: Gameplay In-Depth
 ### Phase 1: Year Begins
+In this phase, you take stock of the current territory distribution, Forest and Enemy stats, and form a general idea of how you would like the Year to progress.
+
 ### Phase 2: Enemy Encroachment
+<!-- TODO: Maybe this should be an ordered list 1. 2. 3. instead of #### -->
+#### Select a Valid Hex to Encroach on:
+- Look at your topmost Valid Hex which shares a border with the Enemy. Roll d12 and count clockwise from here counting only Valid Hexes. Where the count stops is where the Forest hex the Enemy will Encroach upon.
+
+#### Encroach with an Enemy Nature Type: 
+Roll d12 to determine which Nature Type the Enemy Encroaches with and which Valid Hex it uses.
+
+#### Roll Enemy Encroachment Score:
+Roll 2d6 + Enemy Nature Type Potency. This is the score that the Forest must match or exceed to Defend its territory.
+
+#### Doubles Rule:
+If the Encroachment roll turns up doubles (double 1, double 2, etc.), then a random event will happen. Read about this in Chapter 6: Special Rules.
+
+#### Roll Forest Defense Score:
+Decide which of your Nature Types you will defend with, and any Forest Ability or Ally Ability you wish to use (you may only use one ability of any kind per Year whether Defending or Encroaching). Roll 2d6 + Potency + Forest Ability Level (if used). 
+
+The defense should make sense to the narrative. For example, if the Enemy Encroaches with Burn by a massive slash and burn campaign, it would not make sense to use Wood to defend. Rather, you might use Water to flood river banks, or Air to cause heavy rains.
+
+#### Determine Winner
+Compare Enemy Score and Forest Score totals:
+- Enemy Wins: Enemy Encroachment Score is greater than Forest Defense Score. You lose the contested hex to the Enemy. Erase your Forest from that hex, redraw the border and draw in Enemy territory features. Write about the struggle that ensued, how you tried to mount a defense, and why it just wasn’t enough. Be sure to interpret any random events and erase a second hex if the Enemy rolled doubles for their winning score.
+
+- Forest Wins: Enemy Encroachment Score is less than the Forest Defense Score. You successfully defend your territory. Gain +1 Growth Point on your Character Sheet. Do not change the map. Write about the struggle that ensued, how you mounted a defense, and the casualties your Enemy suffered. Interpret any doubles the Enemy rolled in your favor and defend both hexes.
+
+- Tie: Both Scores are equal. You successfully defend your territory, but at great cost. Do not change the map. Write about the vicious struggle that ensued, how you held your enemy at bay, but how much you both suffered. Interpret any doubles the Enemy rolled as affecting both of you.
+
 ### Phase 3: Forest Encroachment
+#### Select the hex to Encroach upon:
+You may Encroach upon any hex you wish, as long as it shares a long edge with one of your own.
+
+#### Encroach with a Forest Nature Type:
+Simply decide which Type you wish to Encroach with and imagine the possible narrative outcome.
+
+#### Forest Encroachment Score:
+Roll 2d6 + Potency + Forest Ability Level (if used).
+
+#### Doubles Rule:
+If the Encroachment roll turns up doubles (double 1, double 2, etc.), then a random event will happen. Read about this in Chapter 6: Special Rules.
+
+#### Enemy Defense Score:
+Roll d12 to determine which Nature Type the Enemy defends with. If the result makes no narrative sense even after "thinking outside the box," then you may reroll the d12. Next, roll 2d6 + Potency to get the Enemy Defense Score.
+
+#### Determine Winner:
+Compare Forest Score and Enemy Score totals:
+- Forest Wins: Forest Encroachment Score is greater than Enemy Defense Score. Gain +1 Growth Point on the Character Sheet. You gain the contested hex From the Enemy. Redraw the border, erase Enemy features and draw in your own features. Write about the struggle and how you overcame. Be sure to interpret any random events and redraw a second hex if you rolled doubles for your winning score.
+
+- Enemy Wins: Forest Encroachment Score is less than the Enemy Defense Score. You failed to defend your territory. No hexes change hands.Write about the struggle that ensued, and how your Enemy beat you back. Interpret any doubles you rolled in Enemy's favor.
+
+- Tie: Both Scores are equal. The Enemy successfully defended its territory, but at great cost. Do not change the map. Write about the vicious struggle that ensued, how you warred, but how much you both suffered. Interpret any doubles you rolled as affecting both of you.
+
 ### Phase 4: Grow Your Forest
 ### Phase 5: Year Ends
 
@@ -208,3 +323,4 @@ To determine Enemy history, roll d12 on the Event Tables and the Enemy Motivatio
 ### 2nd Level Ability Timing
 
 ## Random Tables
+## Quick Reference
