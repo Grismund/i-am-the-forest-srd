@@ -311,11 +311,94 @@ Compare Forest Score and Enemy Score totals:
 - Tie: Both Scores are equal. The Enemy successfully defended its territory, but at great cost. Do not change the map. Write about the vicious struggle that ensued, how you warred, but how much you both suffered. Interpret any doubles you rolled as affecting both of you.
 
 ### Phase 4: Grow Your Forest
+In this phase, you steer your Forest's growth in specific directions to better deal with your Enemy. Growth is slow and steady, but inevitable.
+
+#### Growth Points
+Growth Points (GP) are gained only when your Forest Wins. You gain +1GP for each hex you successfully gain or defend. If you successfully Encroach or Defend two hexes because of a doubles roll, you gain +2GP. 
+
+Growth Points may be spent, saved, or partially spent and saved. But they may only be spent during the Grow Your Forest phase.
+
+#### Spending GP
+There are five ways to spend your GP.
+
+1. Raise Forest Nature Value.
+
+   Spend 1 GP for each +1 Nature Value you wish to increase. You may grow multiple at a time, but you may not exceed a Nature Value of 12 for any Nature Type.
+
+2. Raise Ally Ability Level
+
+   Spend 2 GP for each +1 Ally Ability Level raised. You may raise both levels at once if you have all 4 GP. However, you may only ever have one Ally during a game. Additional Allies may not be gained.
+
+3. Raise Forest Ability Level
+
+   Spend 2 GP for each +1 Forest Ability Level raised. You may grow multiple levels at a time if you have the proper GP and Nature Value. Below are the leveling requirements for the Forest Skill Levels.
+
+   - Forest Ability Lv 1: requires Nature Value at 5+
+   - Forest Ability Lv 2: requires Nature Value at 9+
+   - Forest Ability Lv 3: requires Nature Value at 12
+
+4. Gain a New Forest Ability Type
+
+   Spend 2 GP for each new Forest Ability Type that you take; for example, taking a new Wood Ability for the first time after already having Air Abilities. The new Forest Ability begins at Level 1, and your Nature Value for the Nature Type of the Ability you wish to take must be 5+.
+
+5. Burst Forth to Gain Enemy Hex.
+
+   Spend 4 GP to burst forth in a surprise Encroach-ment which is unchallenged by the Enemy. Your stored energy allows you instantly gain an Enemy's Valid Hex   of your choice. You do not gain a GP for claiming this hex. Make sure you write a journal entry which captures this monumental action!
+
 ### Phase 5: Year Ends
+Make any final journaling notes or drawings that you feel you need to close out this Year or set up the next. When you are done, proceed again to Phase 1.
+
+Victory is achieved when your Enemy’s final hex has been swallowed by the Forest, or when you feel your story has come to its natural conclusion.
 
 ## Chapter 5: Abilities
+Abilities give you some advantage when you Encroach or Defend. Forest Abilities add their level to the roll score if that particular Nature Type was used. Ally Abilities offer random re-rolls which can change  outcomes in unpredicatable ways.
+
+Any Ability may be used at any point during an Encroach or Defend phase, but only one Ability may be used per Year regardless of kind or level.
+
 ### Forest Abilities
+There are twelve Forest Abilities, three for each of the four Nature Types of Wood, Water, Earth, and Air.
+
+Each Ability provides a narrative focus or a motif you can return to during your game. It helps to round out your Forest as a character. The Ability also provides a Potency bonus for its Nature Type when it is used. The bonus it adds to Potency is equal to the Ability's level. So a Wood Ability at level 2 will add +2 to the Wood Potency when the Ability is used.
+
+#### Example of Forest Ability Use
+The Enemy encroaches on your lake hex to overfish it with a roll of 6 and a Chop of +2. Their Encroachment Score is 8 (6+2). You Defend with a roll of 7 and a Water Potency of +1 for a total of 8. That is a tie. But you want a win for the GP. So you decide to use your Water Ability "Like Slate" at Lv 1. Take your Defence score and add "Like Slate's" level to it. 8+1 = 9. You win.
+
+#### Wood Abilities
+- Stonewood: The wood of your trees is extraordinarily though.
+- Conopy of Darkness: Thick branches tower over the land, covering it in shadow.
+- Resilience: Any wood removed from the Forest will return to its natural shape, defying domestication.
+
+#### Water Abilities
+- Boundless Flow: Banks and shores swell with volumes of water and spill over the land.
+- Like Slate: The water begomes rigid and unmoving, nearly impossible to break.
+- Curative Curse: Either healing power or crippling poison infuses itself into the waters.
+
+#### Earth Abilities
+- Heaven and Hell: Mountains and valleys burst forth to terraform the land.
+- Silent Tremor: The earth quakes and fractures on unseen fault lines.
+- Oozing Flux: The earth pours forth in gushes of magma, mud, or landslides.
+
+#### Air Abilities
+- Pummel Earth: Punish the surface with a deluge of rain, hail, and lighting strikes.
+- Howling Breath: Winds, cyclones, tornadoes, and hurricanes blast the landscape.
+- Darkest Bane: Obscure vision and cause despair with darkness from clouds, dust, or fog.
+
 ### Ally Abilities
+Allies come alongside your Forest to Encroach or Defend territory with. Allies exist autonomously from the Forest, so Ally Abilities may be chaotic or unpredicatble, but they have powerful Abilities. Ally Abilities may be used at any time, except for 2nd level Abilities. 
+
+Ally Abilities differ from Forest Abilities in that:
+- They affect dice rolls directly by forcing rerolls or removals instead of a flat bonus to the roll.
+- The Ally gains new Abilities rather than gaining a Potency bonus equal to the Ability's new level.
+- Once an Ally is chosen it may not be revoked. No other Allies may be gained, whereas multiple Forest Abilities of different Types may be acquired.
+
+#### Table of Allies
+- 1-3 Flora: A great diversity of plants support you. Deadly vines, poisonous mushrooms, and man-eating plants are just some of your allies.
+- 4-6 Fauna: Animals, insects, and bacteria respond to your call for aid. They do your bidding to protect you at all cost.
+- 7-9 Archons: These ancient protectors of the Forest and keen warriors desire harmony with nature and they will fight to protect it.
+- 10-12 Shaman: The Shaman seamlessly walks between the Forset and the Enemy. At once widl and tame, they respect balance.
+
+#### Flora
+- Level 1 Harvest of Madness: 
 
 ## Chapter 6: Special Rules
 ### Doubles Rule
