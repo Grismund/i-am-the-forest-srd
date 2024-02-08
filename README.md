@@ -397,13 +397,77 @@ Ally Abilities differ from Forest Abilities in that:
 - 7-9 Archons: These ancient protectors of the Forest and keen warriors desire harmony with nature and they will fight to protect it.
 - 10-12 Shaman: The Shaman seamlessly walks between the Forset and the Enemy. At once widl and tame, they respect balance.
 
+<!-- TODO: Clarify that levels 1 and 2 are merely narrative, but level 3 is different for each. -->
 #### Flora
-- Level 1 Harvest of Madness: 
+Level 1 Harvest of Madness
+- Description: The food plants in the Forest put out toxins which makes the Enemy erratic and unpredictable.
+- Effect: The Enemy must reroll their 2d6 on either Encroachment or Defense. The second roll stands wheter it is higher or lower.
+
+Level 2 Vegetal Consumption
+- Description: All manner of plnats develop a taste for meat whether Enemy or wild.
+- Effect: Before any Defense roll, commit to use Vegetal Consumption. After the Defense roll, remove Nature's lowest die and the Enemy's highest die, then score.
+
+Level 3 Frantic Growth
+- Description: Seedlings shoot their roots deep and wide to reclaim soil at an astonishing rate of growth.
+- Effect: When the Forest Encroaches, reroll 1d6 of the Forest and take the higher of the two rolls.
+
+#### Fauna
+Level 1 Bacterial Delirium
+- Description: Bacteria incubate in the bodies of the Enemy, causing feverish confusion.
+- Effect: The Enemy must reroll their 2d6 on either Encroachment or Defense. The second roll stands wheter it is higher or lower.
+
+Level 2 Indiscriminate Predation
+- Description: The bloodlust of the top predators is whipped into a frenzy. There will be a feast.
+- Effect: Before any Defense roll, commit to use Indiscriminate Predation. After the Defense roll, remove Nature's lowest die and the Enemy's highest die, then score.
+
+Level 3 Bites and Stings
+- Description: The creatures of the Forest, whether animal or insect, voraciously attack intruders.
+- Effect: When the Forest Defends, reroll 1d6 of the Forest and take the higher of the two rolls.
+
+#### Archons
+Level 1 Stealthy Sabotage
+- Description: The Archons move silently and undetected to thwart the Enemy's initial effort.
+- The enemy must reroll their 2d6 on either Encroachment or Defense. The second roll stands whether it is higher or lower.
+
+Level 2 Hail of Arrows
+- Description: The air screams with a hailstorm of Archonic arrows. The carnage mars everthing in its path.
+- Effect: Before any Defense roll, commit to use Hail of Arrows. After the Defense roll, remove Nature's lowest die and the Enemy's highest die, then score.
+
+Level 3 Keen Eyes
+- Description: The Archons discover and exploint a hidden weakness in the Enemy's Defense.
+- Effect: When the Enemy Defends, reroll 1d6 of the Enemy and take the lower of the two rolls.
+
+#### Shaman
+Level 1 Frightful Omen
+- Description: The Shaman performs a terrifying omen in the presence of the Enemy. They flee and must regroup.
+- Effect: The Enemy must reroll their 2d6 on either Encroachment or Defense. The second roll stands whether it is higher or lower.
+
+Level 2 Faunal Transfiguration
+- The Shaman's body and mind are changed into that of a voracious predator who wantonly attacks.
+- Before any Defense roll, commit to use Faunal Transfiguration. After the Devense roll, remove Nature's lowest die and the Enemy's highest die, then score.
 
 ## Chapter 6: Special Rules
 ### Doubles Rule
+<!-- TODO: Reword the doubles rule. It's confusing. Probably also change the order of the 3 things that happen. Hex at stake first and how to determine which. Then roll the narrative part to explaoin what happened.-->
+Whenever an Encroachment roll from either side comes up as doubles (1 and 1, 2 and 2, so forth), then three effects happen. These three effects happen even if an Ability creates or negates a double. The Ability's effects and the double's effects are both applied.
+- A random event must occur. Roll on the Event Tables on the Character Sheet and interpret their results after the outcome of the Encroachment is known. Interpret the results in favor of the winner, and journal it to move the story forward.
+- Two hexes are now at stake. If the Encroacher wins, they take two Valid Hexes (or as near as possible).
+- There are now 2GP at stake. If your Forest wins 		when doubles appear, you gain +2GP. 
+
 ### Ability Limits
+During a Year, only a single Ability of any kind may be used. This one use refreshes at the Year Begins phase. 
+
+For example, if you use an Ally Ability during the Enemy Encroachment phase, you may not use the Ally Ability again until next Year, and you may not use your Forest Ability because the Ally Ability you used counts as your one Ability for the Year.
+
 ### 2nd Level Ability Timing
+<!-- TODO: Clarify that this is not "before ANY Defense roll" otherwise it would never get used during the Enemy's Defense Roll since the Forest's Defense roll has already happened. It should say something like "before either the Forest or Enemy Defends." Also "a 3 a 6" needs help...that's ugly.-->
+The 2nd level Ally Ability requires that you commit to its use before any Defense roll is made. Therefore, you may commit to using it before any Encroachment roll, after any Encroachment roll, but not after any Defense roll.
+
+For example, you Encroach on the Enemy with a roll of 5 and 1 with a Potency of +1 for a total Encroachment Score of 7. The 1 is concerning to you, and you know you want to get rid of it. You consider the Shaman's 2nd level Ability "Faunal Transfiguration," and decide to use it before the Enemy Defense Roll. Now you roll for the Enemy and get a 3 a 6 and and a Potency of +2 for a score of 12 which beats your score of 7.
+
+However, Faunal Transfiguration removes the Enemy's highest die (6) and your lowest (1). The resulting scores are now Forest: 6 against Enemy: 5. Your Forest Wins.
 
 ## Random Tables
+
+
 ## Quick Reference
