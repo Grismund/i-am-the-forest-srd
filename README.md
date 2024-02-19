@@ -23,7 +23,7 @@ Twitter &emsp; [@GrismundGames](https://twitter.com/GrismundGames)
 ### Objective
 You will create a Forest with a unique personality, goals, and landscape features, as well as define an Enemy. Your Enemy is an unwelcome encroaching culture who desecrates your land. You must push back their advances into your territory and swallow their own using powerful elements and skills. This tug of war is played out in a journal and on a hand-drawn map which you will create. You don't need to be an expert artist to play. There is a brief map-making guide in this book to get you started with what you need.
 
-“I am the Forest” awakens your personal creativity in several ways. First, you get to embody an eternal Forest! Let your imagination run free. Next, you get to creatively interpret the action between your Forest and your Enemy as you struggle througout the Year to control territory. You will  journal this action as first-person accounts from the Forest’s perspective and from the changes to the hand-drawn map you make.
+“I am the Forest” awakens your personal creativity in several ways. First, you get to embody an eternal Forest! Let your imagination run free. Next, you get to creatively interpret the action between your Forest and your Enemy as you struggle througout the Year to control territory. You will journal this action as first-person accounts from the Forest’s perspective and from the changes to the hand-drawn map you make.
 
 The process of discovering something that is uniquely “you” is what this game is all about!
 
@@ -468,6 +468,200 @@ For example, you Encroach on the Enemy with a roll of 5 and 1 with a Potency of 
 However, Faunal Transfiguration removes the Enemy's highest die (6) and your lowest (1). The resulting scores are now Forest: 6 against Enemy: 5. Your Forest Wins.
 
 ## Random Tables
+### Potency Table
+Nature Value | Potency +/-
+---|---
+1 | -2
+2-4 |-1
+5-8 | 0
+9-11 | +2
+12 | +2
+
+### Event Description
+d12 | Description
+---|---
+1 | Taboo
+2 | Unwelcome
+3 | Forbidden
+4 | Flawless
+5 | Unexpected
+6 | Iconic
+7 | Hated
+8 | Increasing
+9 | Bloody
+10 | Broken
+11 | Powerful
+12 | Secret
+
+### Event Type
+d12 | Event Type
+---|---
+1 | Ceremony
+2 | Betrayal
+3 | Creation
+4 | Attack
+5 | Exploitation
+6 | Cultivation
+7 | Cataclysm
+8 | Tragedy
+9 | Civilization
+10 | Prophecy
+11 | Caretaker
+12 | Treason
+
+### Forest General Description
+d12 | Forest Description
+---|---
+1 | Innocent
+2 | Darkened
+3 | Tangled
+4 | Meandering
+5 | Verdant
+6 | Sacred
+7 | Endless
+8 | Intelligent
+9 | Ruthless
+10 | Connected
+11 | Peaceful
+12 | Rich
+
+### Forest Origin
+d12 | Forest Origins
+---|---
+1 | The First Mountain
+2 | The Founding Tree
+3 | The Bloody River
+4 | A tragic war
+5 | A faraway transplant
+6 | A great cataclysm
+7 | Divine intervention
+8 | The Last Seed
+9 | A magical working
+10 | a wise creature
+11 | a discarded seed
+12 | Roll two origins
+
+### Forest Motivation Verb
+d12 | Forest Motivation Verb
+---|---
+1 | Fight
+2 | Gain
+3 | Reveal
+4 | Usurp
+5 | Grow
+6 | Overtake
+7 | Bless
+8 | Birth
+9 | Understand
+10 | Observe
+11 | Guard
+12 | Rebuke
+
+### Forest Motivation Focus
+d12 | Forest Motivation Focus
+---|---
+1 | Love
+2 | Revenge
+3 | Authority
+4 | Tragedy
+5 | Mysticism
+6 | Secrets
+7 | Territory
+8 | Rarities
+9 | Limitations
+10 | Fear
+11 | Security
+12 | Destiny
+<!-- TODO: Add "Life" or "Living things" to the table above to include forest creatures -->
+
+### Forest Primary Feature Description
+d12 | Primary Feature Description
+---|---
+1 | Astonishing
+2 | Broken
+3 | Solitary
+4 | Enchanted
+5 | Eternal
+6 | Vengeful
+7 | Priceless
+8 | Nightmarish
+9 | Empathetic
+10 | Defaced
+11 | Battle-scarred
+12 | Remorseful
+
+### Forest Primary Feature
+d12 | Forest Primary Feature
+---|---
+1 | Crater
+2 | River
+3 | Lake
+4 | Geyser
+5 | Plain
+6 | Cavern
+7 | Bog
+8 | Waterfall
+9 | Tree
+10 | Hill
+11 | Mountain
+12 | Grotto
+
+### Forest Hex Generation
+d12 | Forest Hex Generation
+---|---
+1 | Rivers
+2 | Hills
+3 | Mountains
+4 | Canyons
+5 | Plains
+6 | Forests
+7 | Pines
+8 | Lakes
+9 | Swamps
+10 | Rift
+11 | Delta
+12 | Island
+<!-- TODO: Decide on plural or singular for these items. -->
+
+### Enemy Culture
+d12 | Culture | Characteristics | Potency Bonuses
+---|---|---|---
+1-3 | Bladeborn | The Bladeborn conduct themselves methodically. Their keen minds perpetually seek to master nature in novel ways. Their ability to organize society on a large scale and their relentless thirst for more makes them a formidable foe. They have long traditions of hunting and coordinated attacks. Skilled in battle and efficient with axes and fire. | +3 to Chop Potency <br>+2 to Burn Potency
+4-6 | Flamescales | The Flamescales descended upon the land in a flurry of fire and acid. They prefer to nest in mountains away from flowing water. They hunt indiscriminately with breaths of fire. Their scaley carapace is difficult to pierce and their bodies produce toxifying acids. They are feared by all. | +3 to Burn Potency<br>+2 to Pollute Potency
+7-9 | Burrowkin | The Burrowkin delve into the earth seeking to rob it of rare treasures. They are adept at tunneling and bringing mountains down. Their stout bodies are tough and suited to darkness. | +3 to Carve Potency<br>+2 to Chop Potency
+10-12 | Greenbloods | The Greenbloods are foul creatures which ravage the land with their horrendous habits and clawed hands. Once a graceful species, they were twisted and transformed into an odious blight on the land. | +3 to Pollute Potency<br>+2 to Carve Potency
+
+### Enemy Motivation Verb
+d12 | 
+---|---
+1 | 
+2 | 
+3 |
+4 |
+5 |
+6 |
+7 |
+8 |
+9 |
+10 |
+11 |
+12 |
+
+### Enemy Motivation Focus
+d12 | 
+---|---
+1 | 
+2 | 
+3 |
+4 |
+5 |
+6 |
+7 |
+8 |
+9 |
+10 |
+11 |
+12 |
 
 
 ## Quick Reference
