@@ -632,36 +632,66 @@ d12 | Culture | Characteristics | Potency Bonuses
 10-12 | Greenbloods | The Greenbloods are foul creatures which ravage the land with their horrendous habits and clawed hands. Once a graceful species, they were twisted and transformed into an odious blight on the land. | +3 to Pollute Potency<br>+2 to Carve Potency
 
 ### Enemy Motivation Verb
-d12 | 
+d12 | Enemy Motivation Verb
 ---|---
-1 | 
-2 | 
-3 |
-4 |
-5 |
-6 |
-7 |
-8 |
-9 |
-10 |
-11 |
-12 |
+1 | Overthrow
+2 | Protect
+3 | Hoard
+4 | Desecrate
+5 | Secure
+6 | Subjegate
+7 | Profane
+8 | Advance
+9 | Apprehend
+10 | Flaunt
+11 | Expand
+12 | Erect
 
 ### Enemy Motivation Focus
-d12 | 
+d12 | Enemy Motivation Focus
 ---|---
-1 | 
-2 | 
-3 |
-4 |
-5 |
-6 |
-7 |
-8 |
-9 |
-10 |
-11 |
-12 |
-
+1 | Security
+2 | Provision
+3 | Culture
+4 | Power
+5 | Influence
+6 | Mysteries
+7 | Violence
+8 | Edifices
+9 | Outposts
+10 | Network
+11 | Legacy
+12 | Ferocity
 
 ## Quick Reference
+### Overview of Phases in a Year
+1. Year Begins
+    - Ally and Forest Abilities reset.
+2. Enemy Encroachment
+    - Select Forest target: d12 clockwise from your topmost Valid Hex.
+    - d12 on Enemy Nature Type.
+    - Enemy Encroachment Score: 2d6 + Potency 
+    - Forest Defense Score: 2d6 + Potency + Forest Ability Level (if used)
+    - Compare Scores to determine who prevailed.
+    - Journal the outcome and add Growth Points (if Forest Wins).
+3. Forest Encroachment
+    - Select a valid Enemy hex and which hex you Encroach with.
+    - Pick which Forest Nature Type and which Ability to use if you wish.
+    - Forest Encroachment Score: 2d6 + Potency + Ability (if used).
+    - Enemy Defense Score: 2d6 + Potency.
+    - Compare Scores to determine who prevailed.
+    - Journal the outcome and add Growth Points (if Forest Wins).
+4. Grow Your Forest
+    - Apply your Growth points if you wish to make your Forest stronger.
+5. Year Ends
+    - Make finishing touches to journal.
+
+### Doubles Rule
+When any doubles are rolled at any point during  any Encroachment, these three effects occur: 
+- A random event occurs.
+- Two hexes are at stake.
+- Two GP are at stake.
+
+<!-- TODO: Rewrite this very obtuse wording -->
+The effect of a double and an Ability stack. Both effects must be applied even if a double disappears due to an Ability’s effect or appears because of an Ability’s effect.
+
