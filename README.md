@@ -23,7 +23,7 @@ Twitter &emsp; [@GrismundGames](https://twitter.com/GrismundGames)
 ### Objective
 You will create a Forest with a unique personality, goals, and landscape features, as well as define an Enemy. Your Enemy is an unwelcome encroaching culture who desecrates your land. You must push back their advances into your territory and swallow their own using powerful elements and skills. This tug of war is played out in a journal and on a hand-drawn map which you will create. You don't need to be an expert artist to play. There is a brief map-making guide in this book to get you started with what you need.
 
-“I am the Forest” awakens your personal creativity in several ways. First, you get to embody an eternal Forest! Let your imagination run free. Next, you get to creatively interpret the action between your Forest and your Enemy as you struggle througout the Year to control territory. You will journal this action as first-person accounts from the Forest’s perspective and from the changes to the hand-drawn map you make.
+“I am the Forest” awakens your personal creativity in several ways. First, you get to embody an eternal Forest! Let your imagination run free. Next, you get to creatively interpret the action between your Forest and your Enemy as you struggle throughout the Year to control territory. You will journal this action as first-person accounts from the Forest’s perspective and from the changes to the hand-drawn map you make.
 
 The process of discovering something that is uniquely “you” is what this game is all about!
 
@@ -76,7 +76,7 @@ Step 4. Draw Landscape
 * Draw as you wish, or randomly determine using Forest Hex Generation Table and the Drawing Guide.
 
 Step 5. Define Enemy Statistics
-* 2d6 in each Enemy Nature Value. Note Potencyfrom Potency Table on Character Sheet. d12 on Enemy Culture and add Potency Bonuses to Enemy Potency.
+* 2d6 in each Enemy Nature Value. Note Potency from Potency Table on Character Sheet. d12 on Enemy Culture and add Potency Bonuses to Enemy Potency.
 
 Step 6. Define Enemy History
 * d12 on Enemy Motivation Tables and optionally on Event Table. 
@@ -101,9 +101,9 @@ Wood ­- Represents a Forest's ability to grow and control all manner of flora s
 
 Water -­ Represents a Forest's ability to control its rivers, springs, lakes and glaciers. All living things depend on clean water. While a Forest naturally nourishes those within its borders, some Forests adept in water have been known to sabotage water sources.
 
-Earth -­ Repersents a Forest's command of the soil, the stone, the hills, mountains, canyons and fault lines. Forests adept in earth can have surprising control over the altitude and density of their lands, creating mudslides or sinkholes when needed.
+Earth -­ Represents a Forest's command of the soil, the stone, the hills, mountains, canyons and fault lines. Forests adept in earth can have surprising control over the altitude and density of their lands, creating mudslides or sinkholes when needed.
 
-Air -­ Represents a Forest's ability to control the heavens. Forests adept in air harnass this power to supply gentle rains, but others spin out hurricanes, dust storms, heat, blinding darkness, or even toxic gas.
+Air -­ Represents a Forest's ability to control the heavens. Forests adept in air harness this power to supply gentle rains, but others spin out hurricanes, dust storms, heat, blinding darkness, or even toxic gas.
 
 #### Nature Value
 Each Forest contains each of the four Nature Types,
@@ -119,7 +119,7 @@ To fill in the Potency, look at the Nature Value for Wood, and compare it to the
 ### Step 2: Define Your Forest's History
 Story is an integral part of "I am the Forest." As such, you will piece together what you can uncover about your Forest's past.
 
-To determine your Forest's history, prepare your notebook and d12. Roll on each of the Forest Tables and note down the results. In addition, the Event Tables on the Character Sheet may also be useful. Take time to imagine how all these pieces fit together in a meaningful way, and write down what you have uncovered about your Forest's history. It may help to journal a brief history in first­person perspec­ tive, “I am the Forest...”
+To determine your Forest's history, prepare your notebook and d12. Roll on each of the Forest Tables and note down the results. In addition, the Event Tables on the Character Sheet may also be useful. Take time to imagine how all these pieces fit together in a meaningful way, and write down what you have uncovered about your Forest's history. It may help to journal a brief history in first­person perspective, “I am the Forest...”
 
 # TODO: Consider a bigger section on how to use oracle tables along with an example.
 
@@ -127,7 +127,7 @@ To determine your Forest's history, prepare your notebook and d12. Roll on each 
 If you are unfamiliar with the idea of rolling on oracle tables, below are some guidelines.
 
 - The goal is "inspiring idea," not "correct idea." If a roll gives you a great idea, but it doesn't perfectly match the roll, favor the great idea over a literal interpretation.
-- Look for unexpected connections. Does your Forest have a low Nature Value for Wood and you rolled "Hated Cateclysm" for history? Maybe a meteor hit the Forest hundreds of years ago, burning the trees to a crisp!
+- Look for unexpected connections. Does your Forest have a low Nature Value for Wood and you rolled "Hated Cataclysm" for history? Maybe a meteor hit the Forest hundreds of years ago, burning the trees to a crisp!
 - Reroll if you really draw a blank. Feel free to find another result if you try but can't think of anything.
 
 ### Step 3: Define Your Ally
@@ -189,7 +189,7 @@ The Enemy invades. Centers of housing, manufacturing, and trade blister the land
 #### Determine Territory
 To determine the Enemy's starting territory, you need 2d6 and the Territory Map. Roll 2d6 on top of the map. Where a die lands is called the origin. The number on the die determines how many hexes belong to the Enemy. 
 
-Connect the origins and draw borders to encompas the total number of hexes rolled. 
+Connect the origins and draw borders to encompass the total number of hexes rolled. 
 
 If your 2d6 roll is less than 5, simply make the total Enemy territory a size of 5.
 
@@ -209,15 +209,15 @@ Turn to the Forest Abilities.  Read over the Abilities for each Nature Type. Sel
 While Allies partner with the Forest, they are not directly under the Forest's control. When an Ally assists the Forest, it uses abilities which throw in an element of chaos. Note your Ally’s level 1 Ability on your Character Sheet.
 
 ### Step 10: Wrap Up and Begin Gameplay!
-Finish the Character Creation sheet by summarizing your Forest, Ally, and Enemy histories and motiva-tions. Name them all if you wish.
+Finish the Character Creation sheet by summarizing your Forest, Ally, and Enemy histories and motivations. Name them all if you wish.
 
 Congratulations! You are ready to play.
 
 ## Chapter 3: Gameplay Overview
 ### Goals
-Gameplay in "I am the Forest" revolves around attempts by the Enemy to Encroach or advance upon your Forest's territory and your Forest's attemept to Defend, then Encroach upon Enemy Territory over the course of multiple Years. 
+Gameplay in "I am the Forest" revolves around attempts by the Enemy to Encroach or advance upon your Forest's territory and your Forest's attempt to Defend, then Encroach upon Enemy Territory over the course of multiple Years. 
 
-Players can win the game by reclaiming every hex on the map, but the beauty of "I am the Forest" is the experience of builing a rich landscape with a tumult-uous history.
+Players can win the game by reclaiming every hex on the map, but the beauty of "I am the Forest" is the experience of building a rich landscape with a tumultuous history.
 
 GM's should engage with this game as a tool to create their own worlds, or alter an existing one as the people of their world alter the landscape.
 
@@ -237,7 +237,7 @@ Gameplay is structured into a series of steps which constitute a full round. In 
 1. Year Begins
     - Ally and Forest Abilities reset
 2. Enemy Encroachment
-    - Select a Valid Hex: Count valid hexes clockwise using d12 and starting from your topmost vald hex.
+    - Select a Valid Hex: Count valid hexes clockwise using d12 and starting from your topmost valid hex.
     - Roll d12 on Enemy Nature Type
     - Roll Enemy Encroachment Score: 2d6 + Potency 
     - Roll Forest Defense Score: 2d6 + Potency + Ability (if used)
@@ -343,7 +343,7 @@ There are five ways to spend your GP.
 
 5. Burst Forth to Gain Enemy Hex.
 
-   Spend 4 GP to burst forth in a surprise Encroach-ment which is unchallenged by the Enemy. Your stored energy allows you instantly gain an Enemy's Valid Hex   of your choice. You do not gain a GP for claiming this hex. Make sure you write a journal entry which captures this monumental action!
+   Spend 4 GP to burst forth in a surprise Encroachment which is unchallenged by the Enemy. Your stored energy allows you instantly gain an Enemy's Valid Hex   of your choice. You do not gain a GP for claiming this hex. Make sure you write a journal entry which captures this monumental action!
 
 ### Phase 5: Year Ends
 Make any final journaling notes or drawings that you feel you need to close out this Year or set up the next. When you are done, proceed again to Phase 1.
@@ -351,7 +351,7 @@ Make any final journaling notes or drawings that you feel you need to close out 
 Victory is achieved when your Enemy’s final hex has been swallowed by the Forest, or when you feel your story has come to its natural conclusion.
 
 ## Chapter 5: Abilities
-Abilities give you some advantage when you Encroach or Defend. Forest Abilities add their level to the roll score if that particular Nature Type was used. Ally Abilities offer random re-rolls which can change  outcomes in unpredicatable ways.
+Abilities give you some advantage when you Encroach or Defend. Forest Abilities add their level to the roll score if that particular Nature Type was used. Ally Abilities offer random re-rolls which can change  outcomes in unpredictable ways.
 
 Any Ability may be used at any point during an Encroach or Defend phase, but only one Ability may be used per Year regardless of kind or level.
 
@@ -361,16 +361,16 @@ There are twelve Forest Abilities, three for each of the four Nature Types of Wo
 Each Ability provides a narrative focus or a motif you can return to during your game. It helps to round out your Forest as a character. The Ability also provides a Potency bonus for its Nature Type when it is used. The bonus it adds to Potency is equal to the Ability's level. So a Wood Ability at level 2 will add +2 to the Wood Potency when the Ability is used.
 
 #### Example of Forest Ability Use
-The Enemy encroaches on your lake hex to overfish it with a roll of 6 and a Chop of +2. Their Encroachment Score is 8 (6+2). You Defend with a roll of 7 and a Water Potency of +1 for a total of 8. That is a tie. But you want a win for the GP. So you decide to use your Water Ability "Like Slate" at Lv 1. Take your Defence score and add "Like Slate's" level to it. 8+1 = 9. You win.
+The Enemy encroaches on your lake hex to overfish it with a roll of 6 and a Chop of +2. Their Encroachment Score is 8 (6+2). You Defend with a roll of 7 and a Water Potency of +1 for a total of 8. That is a tie. But you want a win for the GP. So you decide to use your Water Ability "Like Slate" at Lv 1. Take your Defense score and add "Like Slate's" level to it. 8+1 = 9. You win.
 
 #### Wood Abilities
 - Stonewood: The wood of your trees is extraordinarily though.
-- Conopy of Darkness: Thick branches tower over the land, covering it in shadow.
+- Canopy of Darkness: Thick branches tower over the land, covering it in shadow.
 - Resilience: Any wood removed from the Forest will return to its natural shape, defying domestication.
 
 #### Water Abilities
 - Boundless Flow: Banks and shores swell with volumes of water and spill over the land.
-- Like Slate: The water begomes rigid and unmoving, nearly impossible to break.
+- Like Slate: The water becomes rigid and unmoving, nearly impossible to break.
 - Curative Curse: Either healing power or crippling poison infuses itself into the waters.
 
 #### Earth Abilities
@@ -384,7 +384,7 @@ The Enemy encroaches on your lake hex to overfish it with a roll of 6 and a Chop
 - Darkest Bane: Obscure vision and cause despair with darkness from clouds, dust, or fog.
 
 ### Ally Abilities
-Allies come alongside your Forest to Encroach or Defend territory with. Allies exist autonomously from the Forest, so Ally Abilities may be chaotic or unpredicatble, but they have powerful Abilities. Ally Abilities may be used at any time, except for 2nd level Abilities. 
+Allies come alongside your Forest to Encroach or Defend territory with. Allies exist autonomously from the Forest, so Ally Abilities may be chaotic or unpredictable, but they have powerful Abilities. Ally Abilities may be used at any time, except for 2nd level Abilities. 
 
 Ally Abilities differ from Forest Abilities in that:
 - They affect dice rolls directly by forcing rerolls or removals instead of a flat bonus to the roll.
@@ -395,16 +395,16 @@ Ally Abilities differ from Forest Abilities in that:
 - 1-3 Flora: A great diversity of plants support you. Deadly vines, poisonous mushrooms, and man-eating plants are just some of your allies.
 - 4-6 Fauna: Animals, insects, and bacteria respond to your call for aid. They do your bidding to protect you at all cost.
 - 7-9 Archons: These ancient protectors of the Forest and keen warriors desire harmony with nature and they will fight to protect it.
-- 10-12 Shaman: The Shaman seamlessly walks between the Forset and the Enemy. At once widl and tame, they respect balance.
+- 10-12 Shaman: The Shaman seamlessly walks between the Forest and the Enemy. At once wild and tame, they respect balance.
 
 <!-- TODO: Clarify that levels 1 and 2 are merely narrative, but level 3 is different for each. -->
 #### Flora
 Level 1 Harvest of Madness
 - Description: The food plants in the Forest put out toxins which makes the Enemy erratic and unpredictable.
-- Effect: The Enemy must reroll their 2d6 on either Encroachment or Defense. The second roll stands wheter it is higher or lower.
+- Effect: The Enemy must reroll their 2d6 on either Encroachment or Defense. The second roll stands whether it is higher or lower.
 
 Level 2 Vegetal Consumption
-- Description: All manner of plnats develop a taste for meat whether Enemy or wild.
+- Description: All manner of plants develop a taste for meat whether Enemy or wild.
 - Effect: Before any Defense roll, commit to use Vegetal Consumption. After the Defense roll, remove Nature's lowest die and the Enemy's highest die, then score.
 
 Level 3 Frantic Growth
@@ -414,7 +414,7 @@ Level 3 Frantic Growth
 #### Fauna
 Level 1 Bacterial Delirium
 - Description: Bacteria incubate in the bodies of the Enemy, causing feverish confusion.
-- Effect: The Enemy must reroll their 2d6 on either Encroachment or Defense. The second roll stands wheter it is higher or lower.
+- Effect: The Enemy must reroll their 2d6 on either Encroachment or Defense. The second roll stands whether it is higher or lower.
 
 Level 2 Indiscriminate Predation
 - Description: The bloodlust of the top predators is whipped into a frenzy. There will be a feast.
@@ -430,11 +430,11 @@ Level 1 Stealthy Sabotage
 - The enemy must reroll their 2d6 on either Encroachment or Defense. The second roll stands whether it is higher or lower.
 
 Level 2 Hail of Arrows
-- Description: The air screams with a hailstorm of Archonic arrows. The carnage mars everthing in its path.
+- Description: The air screams with a hailstorm of Archonic arrows. The carnage mars everything in its path.
 - Effect: Before any Defense roll, commit to use Hail of Arrows. After the Defense roll, remove Nature's lowest die and the Enemy's highest die, then score.
 
 Level 3 Keen Eyes
-- Description: The Archons discover and exploint a hidden weakness in the Enemy's Defense.
+- Description: The Archons discover and exploits a hidden weakness in the Enemy's Defense.
 - Effect: When the Enemy Defends, reroll 1d6 of the Enemy and take the lower of the two rolls.
 
 #### Shaman
@@ -444,7 +444,7 @@ Level 1 Frightful Omen
 
 Level 2 Faunal Transfiguration
 - The Shaman's body and mind are changed into that of a voracious predator who wantonly attacks.
-- Before any Defense roll, commit to use Faunal Transfiguration. After the Devense roll, remove Nature's lowest die and the Enemy's highest die, then score.
+- Before any Defense roll, commit to use Faunal Transfiguration. After the Defense roll, remove Nature's lowest die and the Enemy's highest die, then score.
 
 ## Chapter 6: Special Rules
 ### Doubles Rule
@@ -627,7 +627,7 @@ d12 | Forest Hex Generation
 d12 | Culture | Characteristics | Potency Bonuses
 ---|---|---|---
 1-3 | Bladeborn | The Bladeborn conduct themselves methodically. Their keen minds perpetually seek to master nature in novel ways. Their ability to organize society on a large scale and their relentless thirst for more makes them a formidable foe. They have long traditions of hunting and coordinated attacks. Skilled in battle and efficient with axes and fire. | +3 to Chop Potency <br>+2 to Burn Potency
-4-6 | Flamescales | The Flamescales descended upon the land in a flurry of fire and acid. They prefer to nest in mountains away from flowing water. They hunt indiscriminately with breaths of fire. Their scaley carapace is difficult to pierce and their bodies produce toxifying acids. They are feared by all. | +3 to Burn Potency<br>+2 to Pollute Potency
+4-6 | Flamescales | The Flamescales descended upon the land in a flurry of fire and acid. They prefer to nest in mountains away from flowing water. They hunt indiscriminately with breaths of fire. Their scaly carapace is difficult to pierce and their bodies produce toxifying acids. They are feared by all. | +3 to Burn Potency<br>+2 to Pollute Potency
 7-9 | Burrowkin | The Burrowkin delve into the earth seeking to rob it of rare treasures. They are adept at tunneling and bringing mountains down. Their stout bodies are tough and suited to darkness. | +3 to Carve Potency<br>+2 to Chop Potency
 10-12 | Greenbloods | The Greenbloods are foul creatures which ravage the land with their horrendous habits and clawed hands. Once a graceful species, they were twisted and transformed into an odious blight on the land. | +3 to Pollute Potency<br>+2 to Carve Potency
 
@@ -639,7 +639,7 @@ d12 | Enemy Motivation Verb
 3 | Hoard
 4 | Desecrate
 5 | Secure
-6 | Subjegate
+6 | Subjugate
 7 | Profane
 8 | Advance
 9 | Apprehend
