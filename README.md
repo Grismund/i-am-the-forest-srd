@@ -177,8 +177,7 @@ This step is important and should be not be done hastily. Take your time to work
 #### Pointers
 
 - Drawing Guide - Reference the drawing guide to practice some landscape features.
-- Randomly Roll...or not! -­ Use the Forest Hex Generation Table to determine
-what types of features will be located on groups of hexes. Or simply draw what you want!
+- Randomly Roll...or not! -­ Use the Forest Hex Generation Table to determine what types of features will be located on groups of hexes. Or simply draw what you want!
 - Primary Feature -­ Prominently draw your Forest's Primary Feature. It can hold a lot of narrative weight and should be considered the "heart" of your Forest.
 - Nature Values -­ Consider your Nature Values when drawing. If you are very high or low in certain Values, incorporate that in your drawings.
 - Have Fun ­ Take your time and enjoy this process!
@@ -311,34 +310,29 @@ In this phase, you take stock of the current territory distribution, Forest and 
 
 ### Phase 2: Enemy Encroachment
 
-<!-- TODO: Maybe this should be an ordered list 1. 2. 3. instead of #### This is the same problem as the above todo. I have like a section and an explanation. Its like an OL with a title and a body.-->
-#### Select a Valid Hex to Encroach on:
+#### 1. Select a Valid Hex to Encroach on:
 
 Look at your topmost Valid Hex which shares a border with the Enemy. Roll d12 and count clockwise from here counting only Valid Hexes. Where the count stops is where the Forest hex the Enemy will Encroach upon.
 
----
-
-#### Encroach with an Enemy Nature Type:
+#### 2. Encroach with an Enemy Nature Type:
 
 Roll d12 to determine which Nature Type the Enemy Encroaches with and which Valid Hex it uses.
 
----
-
-#### Roll Enemy Encroachment Score:
+#### 3. Roll Enemy Encroachment Score:
 
 Roll 2d6 + Enemy Nature Type Potency. This is the score that the Forest must match or exceed to Defend its territory.
 
-#### Doubles Rule:
+#### 4. Doubles Rule:
 
 If the Encroachment roll turns up doubles (double 1, double 2, etc.), then a random event will happen. Read about this in Chapter 6: Special Rules.
 
-#### Roll Forest Defense Score:
+#### 5. Roll Forest Defense Score:
 
 Decide which of your Nature Types you will defend with, and any Forest Ability or Ally Ability you wish to use (you may only use one ability of any kind per Year whether Defending or Encroaching). Roll 2d6 + Potency + Forest Ability Level (if used). 
 
 The defense should make sense to the narrative. For example, if the Enemy Encroaches with Burn by a massive slash and burn campaign, it would not make sense to use Wood to defend. Rather, you might use Water to flood river banks, or Air to cause heavy rains.
 
-#### Determine Winner
+#### 6. Determine Winner
 
 Compare Enemy Score and Forest Score totals:
 
@@ -350,27 +344,27 @@ Compare Enemy Score and Forest Score totals:
 
 ### Phase 3: Forest Encroachment
 
-#### Select the hex to Encroach upon:
+#### 1. Select the hex to Encroach upon:
 
 You may Encroach upon any hex you wish, as long as it shares a long edge with one of your own.
 
-#### Encroach with a Forest Nature Type:
+#### 2. Encroach with a Forest Nature Type:
 
 Simply decide which Type you wish to Encroach with and imagine the possible narrative outcome.
 
-#### Forest Encroachment Score:
+#### 3. Forest Encroachment Score:
 
 Roll 2d6 + Potency + Forest Ability Level (if used).
 
-#### Doubles Rule:
+#### 4. Doubles Rule:
 
 If the Encroachment roll turns up doubles (double 1, double 2, etc.), then a random event will happen. Read about this in Chapter 6: Special Rules.
 
-#### Enemy Defense Score:
+#### 5. Enemy Defense Score:
 
 Roll d12 to determine which Nature Type the Enemy defends with. If the result makes no narrative sense even after "thinking outside the box," then you may reroll the d12. Next, roll 2d6 + Potency to get the Enemy Defense Score.
 
-#### Determine Winner:
+#### 6. Determine Winner:
 
 Compare Forest Score and Enemy Score totals:
 
@@ -475,13 +469,16 @@ Ally Abilities differ from Forest Abilities in that:
 - Once an Ally is chosen it may not be revoked. No other Allies may be gained, whereas multiple Forest Abilities of different Types may be acquired.
 
 #### Table of Allies
-<!-- TODO: Make an actual table -->
-- 1-3 Flora: A great diversity of plants support you. Deadly vines, poisonous mushrooms, and man-eating plants are just some of your allies.
-- 4-6 Fauna: Animals, insects, and bacteria respond to your call for aid. They do your bidding to protect you at all cost.
-- 7-9 Archons: These ancient protectors of the Forest and keen warriors desire harmony with nature and they will fight to protect it.
-- 10-12 Shaman: The Shaman seamlessly walks between the Forest and the Enemy. At once wild and tame, they respect balance.
 
-<!-- TODO: Clarify that levels 1 and 2 are merely narrative, but level 3 is different for each. -->
+1d6 | Ally | Description
+---|---|---
+1-3 | Flora | A great diversity of plants support you. Deadly vines, poisonous mushrooms, and man-eating plants are just some of your allies.
+4-6 | Fauna | Animals, insects, and bacteria respond to your call for aid. They do your bidding to protect you at all cost.
+7-9 | Archons | These ancient protectors of the Forest and keen warriors desire harmony with nature and they will fight to protect it.
+10-12 | Shaman | The Shaman seamlessly walks between the Forest and the Enemy. At once wild and tame, they respect balance.
+
+Note Allies are only different narratively except for their Level 3 ability which offer mechanical differences.
+
 #### Flora
 
 Level 1 Harvest of Madness
