@@ -477,7 +477,7 @@ Ally Abilities differ from Forest Abilities in that:
 7-9 | Archons | These ancient protectors of the Forest and keen warriors desire harmony with nature and they will fight to protect it.
 10-12 | Shaman | The Shaman seamlessly walks between the Forest and the Enemy. At once wild and tame, they respect balance.
 
-Note Allies are only different narratively except for their Level 3 ability which offer mechanical differences.
+Note: Allies differ only narratively except for their Level 3 ability which offer mechanical differences.
 
 #### Flora
 
@@ -546,12 +546,15 @@ Level 2 Faunal Transfiguration
 
 ### Doubles Rule
 
-<!-- TODO: Reword the doubles rule. It's confusing. Probably also change the order of the 3 things that happen. Hex at stake first and how to determine which. Then roll the narrative part to explaoin what happened.-->
-Whenever an Encroachment roll from either side comes up as doubles (1 and 1, 2 and 2, so forth), then three effects happen. These three effects happen even if an Ability creates or negates a double. The Ability's effects and the double's effects are both applied.
+Whenever an Encroachment roll from either side comes up as doubles (1 and 1, 2 and 2, so forth), then a Special Event happens. The steps to resolve a Special Event are:
 
-- A random event must occur. Roll on the Event Tables on the Character Sheet and interpret their results after the outcome of the Encroachment is known. Interpret the results in favor of the winner, and journal it to move the story forward.
-- Two hexes are now at stake. If the Encroacher wins, they take two Valid Hexes (or as near as possible).
-- There are now 2GP at stake. If your Forest wins 		when doubles appear, you gain +2GP. 
+1. Determine the result of the Encroachment based on the roll.
+2. Determine the nature of the Special Event. Roll on the Event Tables on the Character Sheet and interpret their results
+3. Interpret the results in favor of the winner, and journal it to move the story forward.
+4. Two hexes are now at stake. If the Encroacher wins, they take two Valid Hexes. If two Valid Hexes are not available, select an Invalid Hex as close as possible to the Valid Hex at stake.
+5. Two GP are now at stake. If your Forest wins the Encroachment roll during a Special Event, you gain +2GP instead of +1GP. 
+
+Note: If doubles are rolled at any point during Encroachment, a Special Event must occur. This includes if doubles are the result of a reroll due to an Ability, or even if the doubles must be rerolled due to an ability. If it is any kind of Encroachment roll and doubles appear at any time, the Special Event must occur.
 
 ### Ability Limits
 
@@ -561,12 +564,11 @@ For example, if you use an Ally Ability during the Enemy Encroachment phase, you
 
 ### 2nd Level Ability Timing
 
-<!-- TODO: Clarify that this is not "before ANY Defense roll" otherwise it would never get used during the Enemy's Defense Roll since the Forest's Defense roll has already happened. It should say something like "before either the Forest or Enemy Defends." Also "a 3 a 6" needs help...that's ugly.-->
-The 2nd level Ally Ability requires that you commit to its use before any Defense roll is made. Therefore, you may commit to using it before any Encroachment roll, after any Encroachment roll, but not after any Defense roll.
+The 2nd level Ally Ability requires that you commit to its use before the Defense roll of a phase is made. Therefore, you may commit to using it before any Encroachment roll, after any Encroachment roll, but not after the Defense roll for that phase.
 
-For example, you Encroach on the Enemy with a roll of 5 and 1 with a Potency of +1 for a total Encroachment Score of 7. The 1 is concerning to you, and you know you want to get rid of it. You consider the Shaman's 2nd level Ability "Faunal Transfiguration," and decide to use it before the Enemy Defense Roll. Now you roll for the Enemy and get a 3 a 6 and and a Potency of +2 for a score of 12 which beats your score of 7.
+For example, you Encroach on the Enemy and roll a 5 and 1 with a Potency of +1 for a total Encroachment Score of 7. The 1 is a low roll, and want to get rid of it. You consider the Shaman's 2nd level Ability "Faunal Transfiguration," and commit to use it before the Enemy Defense Roll. Now that you've committed, you roll for the Enemy Defense which turns up as 3 and 6 with a Potency of +2 for a score of 12 which beats your score of 7.
 
-However, Faunal Transfiguration removes the Enemy's highest die (6) and your lowest (1). The resulting scores are now Forest: 6 against Enemy: 5. Your Forest Wins.
+However, you committed to Faunal Transfiguration before the Enemy's Defense roll. It removes the Enemy's highest die (6) and your lowest (1). The resulting scores are now Forest: 6 against Enemy: 5. Your Forest Wins!
 
 ## Random Tables
 
@@ -673,7 +675,7 @@ d12 | Forest Motivation Focus
 2 | Revenge
 3 | Authority
 4 | Tragedy
-5 | Mysticism
+5 | Life
 6 | Secrets
 7 | Territory
 8 | Rarities
@@ -681,7 +683,6 @@ d12 | Forest Motivation Focus
 10 | Fear
 11 | Security
 12 | Destiny
-<!-- TODO: Add "Life" or "Living things" to the table above to include forest creatures -->
 
 ### Forest Primary Feature Description
 
@@ -732,8 +733,7 @@ d12 | Forest Hex Generation
 9 | Swamps
 10 | Rift
 11 | Delta
-12 | Island
-<!-- TODO: Decide on plural or singular for these items. -->
+12 | Islands
 
 ### Enemy Culture
 
@@ -805,12 +805,13 @@ d12 | Enemy Motivation Focus
 
 ### Doubles Rule
 
-When any doubles are rolled at any point during  any Encroachment, these three effects occur:
+When any doubles are rolled at any point during any Encroachment, begin a Special Event:
 
-- A random event occurs.
-- Two hexes are at stake.
-- Two GP are at stake.
+1. Determine the result of the Encroachment.
+2. Roll on Event Tables to determine the nature of the Special Event
+3. Interpret results in favor of the winner.
+4. Two hexes are at stake.
+5. Two GP are at stake.
 
 <!-- TODO: Rewrite this very obtuse wording -->
-The effect of a double and an Ability stack. Both effects must be applied even if a double disappears due to an Ability’s effect or appears because of an Ability’s effect.
-
+A Special Event must occur if doubles are rolled at any point and for any reason during an Encroachment roll even if the roll changes due to an Ability.
